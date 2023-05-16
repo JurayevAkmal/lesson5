@@ -1,0 +1,48 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.sayt
+{
+    display: flex;
+    justify-content: center;
+    max-width: 1920px;
+    width: 100%;
+    height: auto;
+    background-color: #85A5D4;
+}
+.content
+{
+    display: flex;
+    justify-content: space-evenly;
+    width: 65%;
+    height: auto;
+    background-color: #fff;
+    margin: 120px 0px 300px;
+    border-radius: 5px  ;
+    box-shadow: 10px 5px rgba(0, 0, 0, 0.502);
+}
+.card
+{
+    width: 300px;
+    text-align: center;
+    margin: 25px;
+}
+h3
+{
+    margin: 25px;
+}
+span
+{
+    font-size: 36px;
+    
+}
+sup
+{
+    font-size: 16px;
+}
+p
+{
+    margin-top: 20px;
+}
